@@ -1,2 +1,3 @@
 # Git_demo
-demo file
+demo file (name)
+committing changes 123456789 
